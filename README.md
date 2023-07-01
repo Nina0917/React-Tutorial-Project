@@ -6,6 +6,10 @@ Here is the link: https://react.dev/learn/tutorial-tic-tac-toe
 
 ---
 
+## SSH key not working
+I have generated a ssh key under ~/.ssh
+Use that one instead of creating new one.
+
 ## <></> not support
 
 Fragment syntax is only supported by Babel v7.0.0-beta.31 & above.
