@@ -10,6 +10,17 @@ Here is the link: https://react.dev/learn/tutorial-tic-tac-toe
 I have generated a ssh key under ~/.ssh
 Use that one instead of creating new one.
 
+-  SSH keys are typically stored in the ~/.ssh
+-  To store SSH key pair in a different directory, you will need to provide the path to the SSH private key when connecting to Github.
+```
+ssh -i ~/custom-ssh-keys/id_rsa user@example.com
+
+```
+
+<br>
+
+---
+
 ## <></> not support
 
 Fragment syntax is only supported by Babel v7.0.0-beta.31 & above.
